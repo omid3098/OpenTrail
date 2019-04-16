@@ -9,5 +9,5 @@
 - Add your prefab to OpenTrail component.
 
 ### Note:
-This library uses OpenTouch for handling touch system. you can use your own or any other library instead.
+This library uses [OpenTouch](https://github.com/omid3098/OpenTouch) for handling touch system. you can use your own or any other library instead.
 just change OpenTrail.cs and update your own touch method.
